@@ -1,1 +1,1 @@
-# obstacle-detection-using-ultrasonic-radar-
+# In this project we have detetected the obstacle using the radar with the help of ultrasonic sensor.The code is uploaded on arduino to run the servo motor which will further help to rotate the ultrasonic sensor from 15 degrees to 165 degrees.
