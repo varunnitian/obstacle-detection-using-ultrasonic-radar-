@@ -1,2 +1,12 @@
-# In this project we have detetected the obstacle using the radar with the help of ultrasonic sensor.The code is uploaded on arduino to run the servo motor which will further help to rotate the ultrasonic sensor from 15 degrees to 165 degrees.
-The ability to detect dynamic and stationary obstacles (e.g., cars, trucks, pedestrians, bicycles, hazards) is critical for autonomous vehicles. This is particularly important in semi-urban and urban settings characterized by complex scenes with large amounts of occlusion and varieties of shapes.
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+
+<h1>Obstacle Detection using RADAR</h1>
+<p>This project aims to achieve a radar system prototype based on arduino board and ultrasonic sensor  that detects stationary and moving objects. The radar system has different performance specifications. The radar antenna transmits radio waves or microwaves that bounces off any object their path. The code written on arduino ide gets uploaded on the board and the servo motor and ultrasonic sensor starts working in moving from 15° to 165° in detecting the objects. As soon as the ultrasonic sensor detects an obstacle a red mark waves are shown on the radar board</p>
+
+</body>
+</html>
