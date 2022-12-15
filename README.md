@@ -1,1 +1,2 @@
 # In this project we have detetected the obstacle using the radar with the help of ultrasonic sensor.The code is uploaded on arduino to run the servo motor which will further help to rotate the ultrasonic sensor from 15 degrees to 165 degrees.
+The ability to detect dynamic and stationary obstacles (e.g., cars, trucks, pedestrians, bicycles, hazards) is critical for autonomous vehicles. This is particularly important in semi-urban and urban settings characterized by complex scenes with large amounts of occlusion and varieties of shapes.
